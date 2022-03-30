@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "\u5730\u9762"
+    uniqueID: 3346637665
+    locked: 0
+  - name: "\u89D2\u8272"
+    uniqueID: 308817821
+    locked: 0
